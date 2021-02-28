@@ -114,5 +114,5 @@ stock_ben.drop(0,inplace=True)
 # In[]
 data = pd.read_excel('全部基金业绩比较基准-数据.xlsx')
 # bool = countDf['业绩比较基准'].str.contains(myClass)
-data['指数组合'] = data['业绩比较基准'].apply(lambda x: x.str.contains("+"))
-
+# data['指数组合'] = data['业绩比较基准'].apply(lambda x: x.str.contains("+"))
+data['指数组合'] = data['业绩比较基准'].apply(lambda x: str(x).split('+'))
