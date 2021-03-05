@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb7dc7ae-20be-4887-900a-41c0e797b09e" name="Default Changelist" comment="20210226">
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/.idea/【底稿】课题1 主动基金业绩比较基准选择研究.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/benchmark_research.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/data/全部基金业绩比较基准-数据.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/data/全部基金业绩比较基准_基准组成.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/1987 mutual fund performance evaluation a comparion of benchmarks and benchmark comparisons.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/2021 Stochastic dominance algorithms with application to mutual fund performance evaluation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Alternative Benchmarks for Evaluating Mutual Fund Performance.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Andonov2012-can large pension funds beat the market asset alllocation market timing security selection and the limits of liquidity.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Asset allocation and portfolio performance Evidence from university endowment funds.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Benchmark orthogonality properties.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Benchmarking benchmarks measuring characteristic.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Bond Portfolio Strategies for Outperforming a Benchmark.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Brinson GP, Hood LR and Beebower GL (1986) Determinants of portfolio performance. Financial Analysts Journal 42, 39–44..pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Brinson GP, Singer BD and Beebower GL (1991) Determinants of portfolio performance II an update. Financial Analysts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/JFE 1987 mutual fund performance evaluation a comparison of benchmarks and benchmark comparisons.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/JFE 2014 a mean-variance benchmark for interemporal.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Measuring Mutual Fund Performance with Characteristic‐Based Benchmarks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Options‐based benchmark indices—A review of performance and (in)appropriate measures.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Penny Stocks A Handy Tool for Enhancing Fund Performance.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Predicting hedge fund performance when fund returns are skewed.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/Seasonality, Market Timing and Performance Amongst Benchmarks and Mutual Fund Evaluation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/literature/benchmark selection and profermance.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/债券型基金/基金大类_债券型基金_基准组成数目_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/债券型基金/基金大类_债券型基金_基准组成数目_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/债券型基金/基金大类_债券型基金_基准组成数目_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/债券型基金/基金大类_债券型基金_基准组成数目_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/债券型基金num_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/债券型基金num_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/债券型基金num_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/债券型基金num_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/另类投资基金/基金大类_另类投资基金_基准组成数目_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/另类投资基金/基金大类_另类投资基金_基准组成数目_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/另类投资基金num_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/另类投资基金num_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_基准组成数目_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_基准组成数目_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_基准组成数目_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_基准组成数目_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_基准组成数目_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/国际(QDII)基金num_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/国际(QDII)基金num_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/国际(QDII)基金num_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/国际(QDII)基金num_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/混合型基金/基金大类_混合型基金_基准组成数目_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/混合型基金/基金大类_混合型基金_基准组成数目_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/混合型基金/基金大类_混合型基金_基准组成数目_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/混合型基金/基金大类_混合型基金_基准组成数目_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/混合型基金/基金大类_混合型基金_基准组成数目_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/混合型基金num_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/混合型基金num_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/混合型基金num_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/混合型基金num_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/混合型基金num_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/股票型基金/基金大类_股票型基金_基准组成数目_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/股票型基金/基金大类_股票型基金_基准组成数目_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/股票型基金/基金大类_股票型基金_基准组成数目_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/股票型基金/基金大类_股票型基金_基准组成数目_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/股票型基金/基金大类_股票型基金_基准组成数目_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/股票型基金num_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/股票型基金num_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/股票型基金num_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/股票型基金num_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/股票型基金num_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/货币市场型基金/基金大类_货币市场型基金_基准组成数目_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类/货币市场型基金num_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_1年期定期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_1年期银行定期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_一年期定期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_一年期银行定期存款收益率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债-1-3年农发行债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债-1-3年国开行债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债-3-5年国开行债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债1-3年政策性金融债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债企业债总全价指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债国债总全价指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债总指数(全价)收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债总财富(1-3年)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债新综合财富(1-3年)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债综合(全价)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债综合全价(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债综合全价指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债综合指数(总财富)收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债综合财富(1-3年)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债综合财富(1年以下)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中债综合财富(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中国债券总指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中证全债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中证可转换债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_中证综合债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_同期银行活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_沪深300指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_沪深300指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_金融机构人民币活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_银行1年期定期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_银行一年期定期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_银行人民币活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_2基金标准_银行活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_3基金标准_中债企业债总全价指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_3基金标准_中债综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_3基金标准_中债综合财富(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_3基金标准_中证可转换债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_3基金标准_恒生指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/债券型基金/基金大类_债券型基金_基准组成数目_3基金标准_沪深300指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/另类投资基金/基金大类_另类投资基金_基准组成数目_2基金标准_人民币活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/国际(QDII)基金/基金大类_国际(QDII)基金_基准组成数目_2基金标准_人民币活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/国际(QDII)基金/基金大类_国际(QDII)基金_基准组成数目_2基金标准_人民币活期存款收益率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/国际(QDII)基金/基金大类_国际(QDII)基金_基准组成数目_2基金标准_商业银行活期存款基准利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/国际(QDII)基金/基金大类_国际(QDII)基金_基准组成数目_2基金标准_巴克莱资本美国综合债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/国际(QDII)基金/基金大类_国际(QDII)基金_基准组成数目_2基金标准_活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_一年期人民币定期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_一年期人民币定期存款基准利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_一年期银行定期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_上证国债指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_上证国债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债国债总指数收益率(全价).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债总全价指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债总指数(全价)收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债总指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债总财富(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债总财富指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债新综合指数(财富)收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债综合(全价)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债综合全价(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债综合全价指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债综合指数(全价)收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债综合财富(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中债综合财富指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中国债券总指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中国债券总指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中国战略新兴产业成份指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证500指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证700指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证800指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证TMT产业主题指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证全债指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证全债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证全指指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证内地消费主题指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证医药卫生指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证国债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证新兴产业指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证红利指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证综合债券指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证综合债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_中证综合债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_沪深300指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_沪深300指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_申银万国制造业指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_2基金标准_银行活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_上证国债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债-综合指数(全价)收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债总指数(全价)收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债总指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债新综合财富(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债综合(全价)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债综合全价(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债综合全价指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债综合指数(全价)收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债综合财富(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中债综合财富指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中国债券总指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中国战略新兴产业成份指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证500指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证700指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证800指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证全债指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证全债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证内地消费主题指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证医药卫生指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证新兴产业指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证港股通综合指数(人民币)收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证港股通综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证红利指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证综合债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证综合债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_中证香港100指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_人民币计价的恒生指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_创业板指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_同业存款利率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_恒生指数收益率(使用估值汇率折算).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_恒生指数收益率(使用估值汇率调整).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_恒生指数收益率(按估值汇率折算).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_恒生指数收益率(经汇率估值调整).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_恒生指数收益率(经汇率调整).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_恒生指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_恒生综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_沪深300指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_沪深300指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_金融机构人民币活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_3基金标准_银行活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_4基金标准_中债综合财富(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_4基金标准_中证综合债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_4基金标准_恒生指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_4基金标准_恒生综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_4基金标准_沪深300指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_4基金标准_金融机构人民币活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_4基金标准_金融机构人民币活期存款基准利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/混合型基金/基金大类_混合型基金_基准组成数目_4基金标准_银行活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_MSCI中国A股国际通指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_一年期人民币定期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_一年期银行储蓄存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_上证50指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_上证国债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中债总指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中债综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中债综合财富指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证1000指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证100指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证500指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证800指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证全债指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证全债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证全指证券公司指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证内地消费主题指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证医药卫生指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证环保产业指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证综合债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证综合债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_中证银行指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_人民币活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_人民币银行活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_创业板指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_同业存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_同期银行活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_商业银行活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_沪深300指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_沪深300指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_金融同业存款利率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_金融机构人民币活期存款基准利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_银行人民币活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_银行同业存款利率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_银行活期存款(税后)利率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_银行活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_2基金标准_银行活期存款收益率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_上证国债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中债总指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中债综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中债综合财富(总值)指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中债综合财富指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中证800指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中证全债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中证内地消费主题指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中证医药卫生指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中证港股通综合指数(人民币)收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中证港股通综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中证综合债券指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_中证综合债指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_恒生指数收益率(使用估值汇率折算).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_恒生指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_恒生综合指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_沪深300指数收益率.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/一级分类图示/股票型基金/基金大类_股票型基金_基准组成数目_3基金标准_银行活期存款利率(税后).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/REITs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/中长期纯债型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/偏债混合型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/偏股混合型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/商品型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/固定基准_股票多空.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/国际(QDII)债券型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/国际(QDII)另类投资基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/国际(QDII)混合型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/国际(QDII)股票型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/增强指数型债券基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/增强指数型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/平衡混合型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/普通股票型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/浮动基准_股票多空.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/混合债券型一级基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/混合债券型二级基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/灵活配置型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/短期纯债型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/股票多空.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/被动指数型债券基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/被动指数型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类/货币市场型基金.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/二级分类_统计.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/行业分类.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/行业分类_统计_债指基准.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/result/行业分类_统计_股指基准.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/画图.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/要求ddl20210305.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/课题1 主动基金业绩比较基准选择研究 -初稿202103050110.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【底稿】课题1 主动基金业绩比较基准选择研究/课题1 主动基金业绩比较基准选择研究.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/课题1 主动基金业绩比较基准选择研究.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210225工作计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20210226工作计划.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Benchmarkpaper_05Aug17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EDA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EDA_20210224.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EDA_20210225.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EDA_20210226.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_%.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_中债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_中债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_中证500.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_中证500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_债券.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_债券.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_可转债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_可转债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_商品.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_商品.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_定期存款.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_定期存款.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_沪深300.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_沪深300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_黄金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/债券型基金/基金大类_债券型基金_细分类_黄金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_%.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_中债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_中债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_中证500.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_中证500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_债券.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_债券.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_可转债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_可转债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_商品.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_商品.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_定期存款.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_定期存款.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_沪深300.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_沪深300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_黄金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/另类投资基金/基金大类_另类投资基金_细分类_黄金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_%.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_中债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_中债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_中证500.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_中证500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_债券.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_债券.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_可转债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_可转债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_商品.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_商品.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_定期存款.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_定期存款.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_沪深300.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_沪深300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_黄金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/国际(QDII)基金/基金大类_国际(QDII)基金_细分类_黄金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_%.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_中债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_中债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_中证500.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_中证500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_债券.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_债券.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_可转债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_可转债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_商品.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_商品.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_定期存款.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_定期存款.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_沪深300.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_沪深300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_黄金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/混合型基金/基金大类_混合型基金_细分类_黄金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_%.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_中债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_中债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_中证500.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_中证500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_债券.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_债券.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_可转债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_可转债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_商品.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_商品.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_定期存款.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_定期存款.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_沪深300.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_沪深300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_黄金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/股票型基金/基金大类_股票型基金_细分类_黄金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_%.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_中债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_中债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_中证500.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_中证500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_债券.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_债券.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_可转债.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_可转债.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_商品.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_商品.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_定期存款.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_定期存款.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_沪深300.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_沪深300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_黄金.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/一级分类/货币市场型基金/基金大类_货币市场型基金_细分类_黄金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/REITs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/中长期纯债型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/偏债混合型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/偏股混合型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/商品型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/固定基准_股票多空.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/国际(QDII)债券型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/国际(QDII)另类投资基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/国际(QDII)混合型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/国际(QDII)股票型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/增强指数型债券基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/增强指数型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/平衡混合型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/普通股票型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/浮动基准_股票多空.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/混合债券型一级基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/混合债券型二级基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/灵活配置型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/短期纯债型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/股票多空.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/被动指数型债券基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/被动指数型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类/货币市场型基金.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/二级分类_统计.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/全部基金业绩比较基准-数据.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/全部基金业绩比较基准_基准组成.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/全部基金业绩比较基准_基准组成.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/全部基金业绩比较基准_基准组成_明细.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/投资类型(一级分类)_债券型基金_decompose.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/投资类型(一级分类)_另类投资基金_decompose.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/投资类型(一级分类)_国际(QDII)基金_decompose.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/投资类型(一级分类)_混合型基金_decompose.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/投资类型(一级分类)_股票型基金_decompose.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/投资类型(一级分类)_股票型基金_decompose.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/投资类型(一级分类)_货币市场型基金_decompose.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/全部基金业绩比较基准-数据.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/全部基金业绩比较基准.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/要求ddl20210305.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课题1 主动基金业绩比较基准选择研究 (2).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课题1 主动基金业绩比较基准选择研究.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课题1 主动基金业绩比较基准选择研究.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="cd9b355e-f83b-4efd-b5a3-be258eb7bc49" />
+  <component name="ProjectId" id="1ousm6AlnR656G55Tsdd3xENTnf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.EDA_20210304">
+    <configuration name="EDA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="课题1 主动基金业绩比较基准选择研究" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EDA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EDA_20210225" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="课题1 主动基金业绩比较基准选择研究" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EDA_20210225.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EDA_20210304" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="课题1 主动基金业绩比较基准选择研究" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EDA_20210304.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="课题1 主动基金业绩比较基准选择研究" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="合并excel表格" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="课题1 主动基金业绩比较基准选择研究" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/合并excel表格.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.EDA_20210304" />
+        <item itemvalue="Python.合并excel表格" />
+        <item itemvalue="Python.EDA" />
+        <item itemvalue="Python.EDA_20210225" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb7dc7ae-20be-4887-900a-41c0e797b09e" name="Default Changelist" comment="" />
+      <created>1614147965635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614147965635</updated>
+      <workItem from="1614147966700" duration="5156000" />
+      <workItem from="1614153526804" duration="5430000" />
+      <workItem from="1614217533450" duration="736000" />
+      <workItem from="1614219652146" duration="10054000" />
+      <workItem from="1614301348136" duration="15204000" />
+      <workItem from="1614501267823" duration="626000" />
+      <workItem from="1614561874768" duration="625000" />
+      <workItem from="1614583108904" duration="7200000" />
+      <workItem from="1614655652633" duration="2205000" />
+      <workItem from="1614824911450" duration="970000" />
+      <workItem from="1614849002071" duration="1465000" />
+      <workItem from="1614905601071" duration="9000" />
+      <workItem from="1614912846747" duration="2849000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1614301414221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614301414221</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20210226">
+      <created>1614501290063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614501290064</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial" />
+    <MESSAGE value="20210226" />
+    <option name="LAST_COMMIT_MESSAGE" value="20210226" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="237" key="Github.ShareDialog" timestamp="1614148001781">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="439" y="237" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1614148001781" />
+    <state x="433" y="44" key="Github.UntrackedFilesDialog" timestamp="1614148007482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="44" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1614148007482" />
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1614849253238">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1614849253238" />
+    <state width="1238" height="204" key="GridCell.Tab.0.center" timestamp="1614849253238">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1614849253238" />
+    <state width="1238" height="204" key="GridCell.Tab.0.left" timestamp="1614849253238">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1614849253238" />
+    <state width="1238" height="204" key="GridCell.Tab.0.right" timestamp="1614849253238">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1614849253238" />
+    <state width="1238" height="204" key="GridCell.Tab.1.bottom" timestamp="1614849253239">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1614849253239" />
+    <state width="1238" height="204" key="GridCell.Tab.1.center" timestamp="1614849253239">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1614849253239" />
+    <state width="1238" height="204" key="GridCell.Tab.1.left" timestamp="1614849253238">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1614849253238" />
+    <state width="1238" height="204" key="GridCell.Tab.1.right" timestamp="1614849253239">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1614849253239" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1614501291363">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1614501291363" />
+    <state width="646" height="346" key="XDebugger.FullValuePopup" timestamp="1614588449755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="646" height="346" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1614588449755" />
+    <state x="448" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614655672839">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="448" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1614655672839" />
+    <state x="307" y="6" width="672" height="678" key="search.everywhere.popup" timestamp="1614589810415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="307" y="6" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1614589810415" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1_$EDA_20210304.coverage" NAME="EDA_20210304 Coverage Results" MODIFIED="1614849249179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_$EDA.coverage" NAME="EDA Coverage Results" MODIFIED="1614151825806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
